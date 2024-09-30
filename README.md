@@ -12,7 +12,6 @@ This project is built using:
 - [Tailwind CSS](https://tailwindcss.com/): A utility-first CSS framework for rapid UI development.
 - [shadcn](https://ui.shadcn.com/): A component library for building accessible and customizable UI components.
 
-
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](./LICENSE).
